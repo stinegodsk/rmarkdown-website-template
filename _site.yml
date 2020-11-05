@@ -1,7 +1,7 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Stine Høvring Godsk"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "Stine Høvring Godsk"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
